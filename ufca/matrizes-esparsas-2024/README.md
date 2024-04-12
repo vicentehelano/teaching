@@ -1,0 +1,3 @@
+# Introdução às matrizes esparsas
+
+Material de apoio ao curso sobre matrizes esparsas...
