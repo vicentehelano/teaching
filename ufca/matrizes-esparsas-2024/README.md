@@ -17,11 +17,19 @@ Neste curso, os participantes irão aprender os conceitos básicos das matrizes 
 * aplicações em modelagem
 
 ## Duração
-8 horas
+2 horas
 
 ## Pré-requisitos
 Fundamentos de cálculo e programação em Python.
 
-[1] Eric Jones, Travis Oliphant, Pearu Peterson et al. SciPy: Open source scientific tools for Python. 2001–. URL: http://www.scipy.org/.
+## Referências
 
-[2] Yousef Saad. Iterative Methods for Sparse Linear Systems. Second. Society for Industrial e Applied Mathematics, 2003. URL: https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf
+1. [Notas de aula](https://www-users.cse.umn.edu/~saad/csci8314/) do professor Yousef Saad da disciplina "CSCI 8314: Sparse matrix computations".
+
+2. [Notas de aula](https://courses.grainger.illinois.edu/cs357/sp2024/) da professora Mariana Silva da disciplina "CS 357 - Numerical Methods I".
+
+3. [Slides](https://www.ime.unicamp.br/~valle/Teaching/2016/MA311/Aula27.pdf) do professor Marcos Eduardo Valle sobre a técnica de separação de variáveis.
+
+4. SAAD, Yousef. [Iterative methods for sparse linear systems](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf). Society for Industrial and Applied Mathematics, 2003.
+
+5. BERTACCINI, Daniele; DURASTANTE, Fabio. Iterative methods and preconditioning for large and sparse linear systems with applications. Chapman and Hall/CRC, 2018.
